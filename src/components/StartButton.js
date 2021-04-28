@@ -8,4 +8,4 @@ const StartButton = () => {
     );
 }
 
-export default StartButton;
+export default StartButton

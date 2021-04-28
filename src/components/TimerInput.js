@@ -3,10 +3,11 @@ import React from 'react'
 class TimerInput extends React.Component {
 
     render() {
+
         return (
-            <form>
-                <label>Time</label>
-            </form>
+            <div style={{marginLeft:100}}>
+               hh
+            </div>
         );
     }
 }
